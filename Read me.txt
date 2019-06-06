@@ -1,0 +1,5 @@
+Guidelines
+1. The file named Algotithm contains python code for different classification algorithms: KNN, Decision Tree, Logistic Regression, Naive Bayes.
+2. The file named Encoding schemes contains code for different encoding schemes: PSSM, BPB, AAindex, BLOSUM62, Binary.
+3. The file named PLSVM contains code for optimal model.
+4. The file named SMOTE contains code for SMOTE.
