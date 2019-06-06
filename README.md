@@ -25,12 +25,17 @@ Binary
 The amino acids within a small range around the acetylation site are primary sequence features and have proven to be useful information for lysine acetylation sites prediction in previous studies.These features can be used to represent protein sequences.
 
 # Flowchart of PLSM
+The computational framework of the predictor. Step 1, a window of various length with center lysine (K) is used to extract fragments from lipoylated proteins. Step 2, five different encoding schemes that described in Section 2.2 are utilized to code fragments. Step 3, SMOTE is applied to oversampling. Step 4, different ratios of positive and negative training sets are used to train models. Step 5, PLSVM is adopted to predict independent test samples.
 ![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%201.jpg)
 
 # Result
+Average values of MCC with different ratio data sets and encoding schemes. The X-axis represents different encoding schemes, the Y-axis is average values of MCC and the black bars represent standard error.
 ![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%202.jpg)
+ROC curves of independent test set.
 ![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%203.jpg)
+Proportion of different amino acids between lysine lipoylation and non-lipoylation fragments. The X-axis represents different amino acids, and the Y-axis is the percentage of different amino acids.
 ![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%204.jpg)
+Two Sample Logo (p<0.05) of compositional bias around the lysine lipoylation and non-lipoylation sites.
 ![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%205.jpg)
 
 
