@@ -25,12 +25,13 @@ Binary
 The amino acids within a small range around the acetylation site are primary sequence features and have proven to be useful information for lysine acetylation sites prediction in previous studies.These features can be used to represent protein sequences.
 
 # Flowchart of PLSM
-![image] (https://github.com/stars20180811/PLSVM/blob/Image/Figure%201.jpg)
+![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%201.jpg)
 
 # Result
-![image] (https://github.com/stars20180811/PLSVM/blob/Image/Figure%201.jpg)
-
-
+![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%202.jpg)
+![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%203.jpg)
+![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%204.jpg)
+![image](https://github.com/stars20180811/PLSVM/blob/Image/Figure%205.jpg)
 
 
 
