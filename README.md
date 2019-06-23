@@ -1,4 +1,4 @@
-# PLSVM
+# LipoSVM
 A Predictor based on Support Vector Machine for lysine lipoylation in Proteins 
 # Requirements
 •Python>=3.6
